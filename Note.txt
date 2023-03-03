@@ -1,0 +1,32 @@
+  {
+    date: "2023-01-24",
+    request_id: "ecc2f5fe-9c87-4ca2-a6f2-05065b18ec8f",
+    created_at: "2023-01-24 14:48:28.302473",
+    request_process_id: 2,
+    current_state_id: 11,
+    user_uuid: "b8be99a0-2ba8-5c56-9e82-ba7d1f2f5f7e",
+
+    category: "Man",
+    item: "เพิ่มพนักงานใหม่",
+    detail: "เพิ่มพนักงานใหม่ 1 คน",
+    detailOther: "",
+    kpi: ["No effect"],
+
+    line_id: 83,
+    line_name: "414274 - Alternator Rectifier S/A SE Type (2nd Line)",
+    section_code: 414274,
+    section_name: "Production 2",
+    department_name: "Alternator Product",
+    work_center_code: "A215",
+  },
+
+
+
+
+{"problem_request_id": null, "category": "Man", "item": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e1e\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e41\u0e17\u0e19\u0e0a\u0e31\u0e48\u0e27\u0e04\u0e23\u0e32\u0e27", "detail": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e1e\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e17\u0e35\u0e48\u0e21\u0e35 Skill \u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27", "detailOther": "",
+ "fullDetail": "\u0e2a\u0e38\u0e08\u0e34\u0e15\u0e23\u0e32 \u0e08\u0e32\u0e01 line GCU \u0e40\u0e02\u0e49\u0e32 PROCESS CONDENSER WELDING", "actPerson": "SUJITRA",
+ "kpi": ["Quality"], "product": "regulator", "lineId": "146", "processId": "69",
+ "machine": "Condenser Welding",
+ "partNo": " Regulator", "actTime": "01/02/23, 14:29",
+ "actResult": "ok", "respPerson": "Warin Autatoon", "shift": "A",
+ "attachmentList": [], "supporterList": [], "confirmationList": []}
